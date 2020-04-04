@@ -13,7 +13,7 @@ Code & associated data for the following paper will be soon availabe.
 ```
 @article{pruthi2020learning,
   title={Learning to Deceive with Attention-Based Explanations},
-  author={Pruthi, Danish and Dhingra, Bhuwan and Lipton, Zachary C},
+  author={Pruthi, Danish and Gupta, Mansi and Dhingra, Bhuwan and Neubig, Graham and Lipton, Zachary C},
   booktitle = {The 58th Annual Meeting of the Association for Computational Linguistics (ACL)},
   address = {Seattle, USA},
   month = {July},
