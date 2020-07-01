@@ -1,7 +1,7 @@
 # Learning to Deceive with Attention-based Explanations
 Code & associated data for the following paper.
 
-> Learning to Deceive with Attention-Based Explanations
+> [Learning to Deceive with Attention-Based Explanations](https://arxiv.org/pdf/1909.07913.pdf)
 > 
 > *Danish Pruthi, Mansi Gupta, Bhuwan Dhingra, Graham Neubig, Zachary C. Lipton*
 > 
