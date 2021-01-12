@@ -13,6 +13,11 @@ For dependencies, please check the `environment.yml` file in `src` directory. To
 
 Please refer to README files for our experiments on [classification tasks](src/classification_tasks/README.md), and [sequence-to-sequence tasks](src/seq2seq_tasks/README.md).  
 
+The examples alongside attention-based explanations used for the human-subject experiment:
+
+- [Organic attention](https://docs.google.com/document/d/10sOLMX00OUAH7kojf1va7bP8Y5px9qhQMUhy3Vd-d9Y/edit?usp=sharing)
+- [Manipulated attention from Wiegreffe & Pinter, 2019](https://docs.google.com/document/d/1KXxcGYCkDw6Rc0EJec0PyK_6hNuGqCTCRJf-OdpHrTM/edit?usp=sharing)
+- [Attention from our manipulation scheme](https://docs.google.com/document/d/1LkgBFsoGcdBToscBBmNf4hNvvq2OJLM1I3kNf9ZF3cI/edit?usp=sharing)
 
 # Bibtex
 
