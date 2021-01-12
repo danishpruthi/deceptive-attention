@@ -9,7 +9,7 @@ Code & associated data for the following paper.
 
 
 
-For dependencies, please check the `environment.yml` file in `src` directory. To create the same conda environment you can run `conda env create -f environment.yml` (You might have to edit the prefix in the last line in the file.) 
+For dependencies, please check the `environment.yml` file in `src` directory. To create the same conda environment you can run `conda env create -f environment.yml` (You might have to edit the prefix in the last line in the file.) The code also uses a library called `log` for colorful printing (available [here](https://github.com/danishpruthi/log)).
 
 Please refer to README files for our experiments on [classification tasks](src/classification_tasks/README.md), and [sequence-to-sequence tasks](src/seq2seq_tasks/README.md).  
 
