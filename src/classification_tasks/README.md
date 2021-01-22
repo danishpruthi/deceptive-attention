@@ -37,4 +37,8 @@ You would be able to see the dev results and test results in the output folder. 
 01/17/2021 13:23:35 - INFO - __main__ -     avg_mean_attention_mass = 7.117244752855244e-05
 ````
 
+`avg_mean_attention_mass` in the BERT code is the attention metric of interest (and `avg_max_attention_mass` corresponding to the max setting). Here we get a value of 7.405247478533373e-5, which when converted to a percentage becomes 0.007, and hence was rounded up to 0.01 in the paper. 
+
+
+
 Lastly, note that the above BERT experiments use a significantly outdated version of what has now become the `transformers` library from Huggingface (earlier it was called `pretrained-pytorch-bert`). The local copy of that library is included as a part of this repository. 
